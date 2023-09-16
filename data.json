@@ -1,165 +1,159 @@
 [
     {
-        "No": "No",
-        "Name": "Name",
-        "Atcoder ID": "Atcoder ID Name",
-        "Rank": "Rank"
-    },
-    {
         "No": "1",
-        "Name": "Shlok Agrawal",
-        "Atcoder ID": "shlokagrawal",
-        "Rank": "849"
-    },
-    {
-        "No": "2",
         "Name": "Arin.Awasthi",
         "Atcoder ID": "MadMax0508",
         "Rank": "1519"
     },
     {
-        "No": "3",
-        "Name": "Raj Rajesh Bunsha",
-        "Atcoder ID": "rajb_957",
-        "Rank": "2151"
-    },
-    {
-        "No": "4",
+        "No": "2",
         "Name": "Deep.Shashank",
         "Atcoder ID": "codingNHBhai",
         "Rank": "2370"
     },
     {
-        "No": "5",
+        "No": "3",
         "Name": "Shishir Shahi",
         "Atcoder ID": "Shishir34878",
         "Rank": "2438"
     },
     {
-        "No": "6",
+        "No": "4",
         "Name": "Dhairya Gupta",
         "Atcoder ID": "Dr_Magnetar",
         "Rank": "2612"
     },
     {
-        "No": "7",
+        "No": "5",
+        "Name": "Dhairya Gupta",
+        "Atcoder ID": "Dr_Magnetar",
+        "Rank": "2612"
+    },
+    {
+        "No": "6",
         "Name": "Sudhanshu Sathawane",
         "Atcoder ID": "furious10",
         "Rank": "3029"
     },
     {
-        "No": "8",
+        "No": "7",
         "Name": "Shrutik Sanjay Mali",
         "Atcoder ID": "shrutik",
         "Rank": "3324"
     },
     {
-        "No": "9",
+        "No": "8",
         "Name": "Madhav Sood",
         "Atcoder ID": "madhav0407",
         "Rank": "3584"
     },
     {
-        "No": "10",
+        "No": "9",
         "Name": "Anshuman Kumar",
         "Atcoder ID": "anshuman_kumar",
         "Rank": "3696"
     },
     {
-        "No": "11",
+        "No": "10",
         "Name": "Ram Sai Koushik Polisetti",
         "Atcoder ID": "ramsai_koushik",
         "Rank": "3767"
     },
     {
-        "No": "12",
+        "No": "11",
         "Name": "Varad Purushottam Bharadiya",
         "Atcoder ID": "VaradB",
         "Rank": "3806"
     },
     {
-        "No": "13",
+        "No": "12",
         "Name": "Prashant Kumar",
         "Atcoder ID": "Prashantpx",
         "Rank": "3833"
     },
     {
-        "No": "14",
+        "No": "13",
         "Name": "Suyash Ajit Chavan",
         "Atcoder ID": "suyash_1910",
         "Rank": "4140"
     },
     {
-        "No": "15",
+        "No": "14",
         "Name": "Rachna.Kedigehalli",
         "Atcoder ID": "rachna",
         "Rank": "4353"
     },
     {
-        "No": "16",
+        "No": "15",
         "Name": "Danesh Manoj Toshniwal",
         "Atcoder ID": "daneshtoshniwal",
         "Rank": "4442"
     },
     {
-        "No": "17",
+        "No": "16",
         "Name": "Keshav Chandak",
         "Atcoder ID": "keshav00",
         "Rank": "4490"
     },
     {
-        "No": "18",
+        "No": "17",
         "Name": "Shubhanshu.Agrawal",
         "Atcoder ID": "shubhanshu1902",
         "Rank": "4666"
     },
     {
-        "No": "19",
+        "No": "18",
         "Name": "Hemant Gupta",
         "Atcoder ID": "HemantG31",
         "Rank": "4686"
     },
     {
-        "No": "20",
+        "No": "19",
         "Name": "Nandakishore.Menon",
         "Atcoder ID": "samael_arch",
         "Rank": "5130"
     },
     {
-        "No": "21",
+        "No": "20",
         "Name": "Akshay Pandey",
         "Atcoder ID": "aks_332",
         "Rank": "5202"
     },
     {
-        "No": "22",
+        "No": "21",
         "Name": "Gousepeer.Arella",
         "Atcoder ID": "gousepeer3919",
         "Rank": "5349"
     },
     {
-        "No": "23",
+        "No": "22",
         "Name": "Vineet Priyedarshi",
         "Atcoder ID": "avocado_2",
         "Rank": "5361"
     },
     {
-        "No": "24",
+        "No": "23",
         "Name": "Tanmay Kamlesh Jain",
         "Atcoder ID": "tanmay2233",
         "Rank": "5395"
     },
     {
-        "No": "25",
+        "No": "24",
         "Name": "Siddharth V Pillai",
         "Atcoder ID": "Siddharth_005",
         "Rank": "5564"
     },
     {
-        "No": "26",
+        "No": "25",
         "Name": "Aditya Garg",
         "Atcoder ID": "green_day",
         "Rank": "5795"
+    },
+    {
+        "No": "26",
+        "Name": "Rudra Pathak",
+        "Atcoder ID": "PoLaRbEaR_",
+        "Rank": "5965"
     },
     {
         "No": "27",
@@ -169,438 +163,432 @@
     },
     {
         "No": "28",
-        "Name": "Rudra Pathak",
-        "Atcoder ID": "PoLaRbEaR_",
-        "Rank": "5965"
-    },
-    {
-        "No": "29",
         "Name": "Aryan Singhal",
         "Atcoder ID": "aloofzebra03",
         "Rank": "6453"
     },
     {
-        "No": "30",
+        "No": "29",
         "Name": "B Rahul",
         "Atcoder ID": "fledlucifer",
         "Rank": "6596"
     },
     {
-        "No": "31",
+        "No": "30",
         "Name": "Vansh Sinha",
         "Atcoder ID": "vanshsinha100",
         "Rank": "6779"
     },
     {
-        "No": "32",
+        "No": "31",
         "Name": "Madhav.Meda",
         "Atcoder ID": "mmadhav",
         "Rank": "6914"
     },
     {
-        "No": "33",
+        "No": "32",
         "Name": "Abhirath Adamane",
         "Atcoder ID": "abhiratha",
         "Rank": "7056"
     },
     {
-        "No": "34",
+        "No": "33",
         "Name": "Abhik Kumar",
         "Atcoder ID": "Abhik04",
         "Rank": "7315"
     },
     {
-        "No": "35",
+        "No": "34",
         "Name": "Nikita Gupta",
         "Atcoder ID": "nikki_00011",
         "Rank": "7496"
     },
     {
-        "No": "36",
+        "No": "35",
         "Name": "Kevin Girishbhai Adesara",
         "Atcoder ID": "KevinAdesara",
         "Rank": "7621"
     },
     {
-        "No": "37",
+        "No": "36",
         "Name": "Nikita Mishra",
         "Atcoder ID": "LogicLearner",
         "Rank": "7788"
     },
     {
-        "No": "38",
+        "No": "37",
         "Name": "Muteeb Sheikh",
         "Atcoder ID": "why_muted",
         "Rank": "7885"
     },
     {
-        "No": "39",
+        "No": "38",
         "Name": "Nikita Kiran",
         "Atcoder ID": "nikita03",
         "Rank": "7970"
     },
     {
-        "No": "40",
+        "No": "39",
         "Name": "Harsh Tripathi",
         "Atcoder ID": "drigger",
         "Rank": "8940"
     },
     {
-        "No": "41",
+        "No": "40",
         "Name": "Krishna.Sharma",
         "Atcoder ID": "antimaana",
         "Rank": "9103"
     },
     {
-        "No": "42",
+        "No": "41",
         "Name": "sumanth.badam",
         "Atcoder ID": "BTVSumanth",
         "Rank": "9184"
     },
     {
-        "No": "43",
+        "No": "42",
         "Name": "Dhruv Awasthi",
         "Atcoder ID": "DhruvAwasthi",
         "Rank": "9205"
     },
     {
-        "No": "44",
+        "No": "43",
         "Name": "Pawar Soham Prithviraj",
         "Atcoder ID": "soardr",
         "Rank": "9466"
     },
     {
-        "No": "45",
+        "No": "44",
         "Name": "Leelavamsikrishna.Sannipalli",
         "Atcoder ID": "idiotslvk",
         "Rank": "9579"
     },
     {
-        "No": "46",
+        "No": "45",
         "Name": "Prashant Jain",
         "Atcoder ID": "prashantjain05",
         "Rank": "9886"
     },
     {
-        "No": "47",
+        "No": "46",
         "Name": "Aravapalli Venkata Naga Lokesh Kumar",
         "Atcoder ID": "LokeshAravapalli",
         "Rank": "9888"
     },
     {
-        "No": "48",
+        "No": "47",
         "Name": "Gupta Abhishek Manilal",
         "Atcoder ID": "Elysian01",
         "Rank": "9905"
     },
     {
-        "No": "49",
+        "No": "48",
         "Name": "phanipavan k",
         "Atcoder ID": "phanipavank",
         "Rank": "10145"
     },
     {
-        "No": "50",
+        "No": "49",
         "Name": "Sridhar S Menon",
         "Atcoder ID": "sridharmenon",
         "Rank": "10952"
     },
     {
-        "No": "51",
+        "No": "50",
         "Name": "Dibyarup Pal",
         "Atcoder ID": "fork_quoder",
         "Rank": "11090"
     },
     {
-        "No": "52",
+        "No": "51",
         "Name": "R Lakshman",
         "Atcoder ID": "ThalaLak",
         "Rank": "11139"
     },
     {
-        "No": "53",
+        "No": "52",
         "Name": "Varnit Mittal",
         "Atcoder ID": "varn03",
         "Rank": "11173"
     },
     {
-        "No": "54",
+        "No": "53",
         "Name": "Zanzad Shubham Pramod",
         "Atcoder ID": "Zanzad",
         "Rank": "11263"
     },
     {
-        "No": "55",
+        "No": "54",
         "Name": "Kushal Partani",
         "Atcoder ID": "Kushal7551",
         "Rank": "11269"
     },
     {
-        "No": "56",
+        "No": "55",
         "Name": "Varad.Badhe",
         "Atcoder ID": "jaguar_0014",
         "Rank": "11345"
     },
     {
-        "No": "57",
+        "No": "56",
         "Name": "Anurag Babal",
         "Atcoder ID": "anurag_babal",
         "Rank": "11388"
     },
     {
-        "No": "58",
+        "No": "57",
         "Name": "Ricky Ashokkumar Ratnani",
         "Atcoder ID": "Rick200",
         "Rank": "11462"
     },
     {
-        "No": "59",
+        "No": "58",
         "Name": "Nimish Gaurish Sinai Khandeparkar",
         "Atcoder ID": "nimishgsk17",
         "Rank": "11506"
     },
     {
-        "No": "60",
+        "No": "59",
         "Name": "Shashank Siddappa Devarmani",
         "Atcoder ID": "grammyprocoder27",
         "Rank": "11554"
     },
     {
-        "No": "61",
+        "No": "60",
         "Name": "Ajitesh Kumar Singh",
         "Atcoder ID": "Transyltoonia",
         "Rank": "11647"
     },
     {
-        "No": "62",
+        "No": "61",
         "Name": "Pathaneni Anirudh Phani Tanmay",
         "Atcoder ID": "FunnySunny",
         "Rank": "11903"
     },
     {
-        "No": "63",
+        "No": "62",
         "Name": "Shashwat Chaturvedi",
         "Atcoder ID": "Skylar_007",
         "Rank": "12154"
     },
     {
-        "No": "64",
+        "No": "63",
         "Name": "Yugaan.Hagargi",
         "Atcoder ID": "yugaanmh",
         "Rank": "12382"
     },
     {
-        "No": "65",
+        "No": "64",
         "Name": "Gummaraju Sai Hemanth Kumar",
         "Atcoder ID": "MT2023010",
         "Rank": "12399"
     },
     {
-        "No": "66",
+        "No": "65",
         "Name": "Swetha Murali",
         "Atcoder ID": "evilupstairs",
         "Rank": "12474"
     },
     {
-        "No": "67",
+        "No": "66",
         "Name": "Anshul.Jindal",
         "Atcoder ID": "anshul16_coder",
         "Rank": "12546"
     },
     {
-        "No": "68",
+        "No": "67",
         "Name": "Aryan Vivek Bansal",
         "Atcoder ID": "abansal074",
         "Rank": "12563"
     },
     {
-        "No": "69",
+        "No": "68",
         "Name": "Sukrut Sunil Dekhane",
         "Atcoder ID": "sukrutdekhane",
         "Rank": "12597"
     },
     {
-        "No": "70",
+        "No": "69",
         "Name": "Nirbhay Sharma",
         "Atcoder ID": "Nirbhay",
         "Rank": "12597"
     },
     {
-        "No": "71",
+        "No": "70",
         "Name": "Tejas.Sharma",
         "Atcoder ID": "fireballzzz",
         "Rank": "12597"
     },
     {
-        "No": "72",
+        "No": "71",
         "Name": "Gowtham Reddy Kadavakolla",
         "Atcoder ID": "Gowtham569",
         "Rank": "12597"
     },
     {
-        "No": "73",
+        "No": "72",
         "Name": "Vidhish Trivedi",
         "Atcoder ID": "vidhish17",
         "Rank": "12597"
     },
     {
-        "No": "74",
+        "No": "73",
         "Name": "Dewanshi.Dewan",
         "Atcoder ID": "Dewanshi9",
         "Rank": "12597"
     },
     {
-        "No": "75",
+        "No": "74",
         "Name": "Shrey Salaria",
         "Atcoder ID": "SalluKomder",
         "Rank": "12597"
     },
     {
-        "No": "76",
+        "No": "75",
         "Name": "Keshav Agarwal",
         "Atcoder ID": "agarwalkeshav670",
         "Rank": "12597"
     },
     {
-        "No": "77",
+        "No": "76",
         "Name": "Shrey.Tripathi",
         "Atcoder ID": "shrey27tri01",
         "Rank": "12597"
     },
     {
-        "No": "78",
+        "No": "77",
         "Name": "Jass Sadana",
         "Atcoder ID": "jass_sadana",
         "Rank": "12597"
     },
     {
-        "No": "79",
+        "No": "78",
         "Name": "Kerkar Ketki Sunil",
         "Atcoder ID": "kerkar0203",
         "Rank": "12597"
     },
     {
-        "No": "80",
+        "No": "79",
         "Name": "Ananthakrishna K",
         "Atcoder ID": "ananthak",
         "Rank": "100000"
     },
     {
-        "No": "81",
+        "No": "80",
         "Name": "Navaneeth D",
         "Atcoder ID": "navaneethd123",
         "Rank": "100000"
     },
     {
-        "No": "82",
+        "No": "81",
         "Name": "Siddhesh Deshpande",
         "Atcoder ID": "Siddhesh_17",
         "Rank": "100000"
     },
     {
-        "No": "83",
+        "No": "82",
         "Name": "Soumya Chakraborty",
         "Atcoder ID": "Samxaverian",
         "Rank": "100000"
     },
     {
-        "No": "84",
+        "No": "83",
         "Name": "Nandini Yadav",
         "Atcoder ID": "Nandini_Yadav",
         "Rank": "100000"
     },
     {
-        "No": "85",
+        "No": "84",
         "Name": "Gururaj Shivarudrappa Otageri",
         "Atcoder ID": "gururaj_o",
         "Rank": "100000"
     },
     {
-        "No": "86",
+        "No": "85",
         "Name": "Sai Madhavan G",
         "Atcoder ID": "saimadhavang ",
         "Rank": "100000"
     },
     {
-        "No": "87",
+        "No": "86",
         "Name": "Satvik.Verma",
         "Atcoder ID": "deadMan0100",
         "Rank": "100000"
     },
     {
-        "No": "88",
+        "No": "87",
         "Name": "Archit.Sangal",
         "Atcoder ID": "architsangal",
         "Rank": "100000"
     },
     {
-        "No": "89",
+        "No": "88",
         "Name": "Lohitaksh Maruvada",
         "Atcoder ID": "Lohitaksh",
         "Rank": "100000"
     },
     {
-        "No": "90",
+        "No": "89",
         "Name": "Aman Pandey",
         "Atcoder ID": "nameaman2170",
         "Rank": "100000"
     },
     {
-        "No": "91",
+        "No": "90",
         "Name": "Sathvik.Bhat",
         "Atcoder ID": "sathvik04",
         "Rank": "100000"
     },
     {
-        "No": "92",
+        "No": "91",
         "Name": "Hemant Kumar",
         "Atcoder ID": "Hemant_Kumar",
         "Rank": "100000"
     },
     {
-        "No": "93",
+        "No": "92",
         "Name": "Chinmay.Parekh",
         "Atcoder ID": "chinmayparekh",
         "Rank": "100000"
     },
     {
-        "No": "94",
+        "No": "93",
         "Name": "Hardik.Khandelwal",
         "Atcoder ID": "gunshot54",
         "Rank": "100000"
     },
     {
-        "No": "95",
+        "No": "94",
         "Name": "Shashank Amarnath Lal",
         "Atcoder ID": "TheRedMoon",
         "Rank": "100000"
     },
     {
-        "No": "96",
+        "No": "95",
         "Name": "Shanmukha.Bhuvan",
         "Atcoder ID": "jsbhuvan ",
         "Rank": "100000"
     },
     {
-        "No": "97",
+        "No": "96",
         "Name": "Ansh Avi Khanna",
         "Atcoder ID": "aak3112",
         "Rank": "100000"
     },
     {
-        "No": "98",
+        "No": "97",
         "Name": "Nabarun Mukherjee",
         "Atcoder ID": "Nabarun11",
         "Rank": "100000"
     },
     {
-        "No": "99",
+        "No": "98",
         "Name": "Chaithanya.Challapalli",
         "Atcoder ID": "chaithanya970",
         "Rank": "100000"
     },
     {
-        "No": "100",
+        "No": "99",
         "Name": "Aamod.BK",
         "Atcoder ID": "dawsom",
         "Rank": "100000"
