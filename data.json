@@ -1,0 +1,608 @@
+[
+    {
+        "No": "No",
+        "Name": "Atcoder ID Name",
+        "Atcoder ID": "Roll number",
+        "Rank": "Rank"
+    },
+    {
+        "No": "1",
+        "Name": "shlokagrawal",
+        "Atcoder ID": "IMT2021103",
+        "Rank": "849"
+    },
+    {
+        "No": "2",
+        "Name": "MadMax0508",
+        "Atcoder ID": "IMT2020081",
+        "Rank": "1519"
+    },
+    {
+        "No": "3",
+        "Name": "rajb_957",
+        "Atcoder ID": "IMT2021010",
+        "Rank": "2151"
+    },
+    {
+        "No": "4",
+        "Name": "codingNHBhai",
+        "Atcoder ID": "IMT2020129",
+        "Rank": "2370"
+    },
+    {
+        "No": "5",
+        "Name": "Shishir34878",
+        "Atcoder ID": "IMT2021029",
+        "Rank": "2438"
+    },
+    {
+        "No": "6",
+        "Name": "Dr_Magnetar",
+        "Atcoder ID": "IMT2021005",
+        "Rank": "2612"
+    },
+    {
+        "No": "7",
+        "Name": "furious10",
+        "Atcoder ID": "MT2023131",
+        "Rank": "3029"
+    },
+    {
+        "No": "8",
+        "Name": "shrutik",
+        "Atcoder ID": "MT2023152",
+        "Rank": "3324"
+    },
+    {
+        "No": "9",
+        "Name": "madhav0407",
+        "Atcoder ID": "IMT2021009",
+        "Rank": "3584"
+    },
+    {
+        "No": "10",
+        "Name": "anshuman_kumar",
+        "Atcoder ID": "IMT2021518",
+        "Rank": "3696"
+    },
+    {
+        "No": "11",
+        "Name": "ramsai_koushik",
+        "Atcoder ID": "IMT2021072",
+        "Rank": "3767"
+    },
+    {
+        "No": "12",
+        "Name": "VaradB",
+        "Atcoder ID": "IMT2021532 ",
+        "Rank": "3806"
+    },
+    {
+        "No": "13",
+        "Name": "Prashantpx",
+        "Atcoder ID": "MT2022079",
+        "Rank": "3833"
+    },
+    {
+        "No": "14",
+        "Name": "suyash_1910",
+        "Atcoder ID": "IMT2021048",
+        "Rank": "4140"
+    },
+    {
+        "No": "15",
+        "Name": "rachna",
+        "Atcoder ID": "IMT2019069",
+        "Rank": "4353"
+    },
+    {
+        "No": "16",
+        "Name": "daneshtoshniwal",
+        "Atcoder ID": "IMT2021094",
+        "Rank": "4442"
+    },
+    {
+        "No": "17",
+        "Name": "keshav00",
+        "Atcoder ID": "IMT2021003",
+        "Rank": "4490"
+    },
+    {
+        "No": "18",
+        "Name": "shubhanshu1902",
+        "Atcoder ID": "IMT2020078",
+        "Rank": "4666"
+    },
+    {
+        "No": "19",
+        "Name": "HemantG31",
+        "Atcoder ID": "IMT2022030",
+        "Rank": "4686"
+    },
+    {
+        "No": "20",
+        "Name": "samael_arch",
+        "Atcoder ID": "IMT2019057",
+        "Rank": "5130"
+    },
+    {
+        "No": "21",
+        "Name": "aks_332",
+        "Atcoder ID": "IMT2021074",
+        "Rank": "5202"
+    },
+    {
+        "No": "22",
+        "Name": "gousepeer3919",
+        "Atcoder ID": "IMT2020042",
+        "Rank": "5349"
+    },
+    {
+        "No": "23",
+        "Name": "avocado_2",
+        "Atcoder ID": "IMT2021018",
+        "Rank": "5361"
+    },
+    {
+        "No": "24",
+        "Name": "tanmay2233",
+        "Atcoder ID": "IMT2021015",
+        "Rank": "5395"
+    },
+    {
+        "No": "25",
+        "Name": "Siddharth_005",
+        "Atcoder ID": "MT2023023",
+        "Rank": "5564"
+    },
+    {
+        "No": "26",
+        "Name": "green_day",
+        "Atcoder ID": "IMT2021545",
+        "Rank": "5795"
+    },
+    {
+        "No": "27",
+        "Name": "PoLaRbEaR_",
+        "Atcoder ID": "IMT2022081",
+        "Rank": "5965"
+    },
+    {
+        "No": "28",
+        "Name": "PoLaRbEaR_",
+        "Atcoder ID": "IMT2022081",
+        "Rank": "5965"
+    },
+    {
+        "No": "29",
+        "Name": "aloofzebra03",
+        "Atcoder ID": "IMT2022036",
+        "Rank": "6453"
+    },
+    {
+        "No": "30",
+        "Name": "fledlucifer",
+        "Atcoder ID": "MT2023038",
+        "Rank": "6596"
+    },
+    {
+        "No": "31",
+        "Name": "vanshsinha100",
+        "Atcoder ID": "IMT2022122",
+        "Rank": "6779"
+    },
+    {
+        "No": "32",
+        "Name": "mmadhav",
+        "Atcoder ID": "IMT2020022",
+        "Rank": "6914"
+    },
+    {
+        "No": "33",
+        "Name": "abhiratha",
+        "Atcoder ID": "imt2023029",
+        "Rank": "7056"
+    },
+    {
+        "No": "34",
+        "Name": "Abhik04",
+        "Atcoder ID": "IMT2022117",
+        "Rank": "7315"
+    },
+    {
+        "No": "35",
+        "Name": "nikki_00011",
+        "Atcoder ID": "MT2023132",
+        "Rank": "7496"
+    },
+    {
+        "No": "36",
+        "Name": "KevinAdesara",
+        "Atcoder ID": "IMT2021070",
+        "Rank": "7621"
+    },
+    {
+        "No": "37",
+        "Name": "LogicLearner",
+        "Atcoder ID": "MT2023052",
+        "Rank": "7788"
+    },
+    {
+        "No": "38",
+        "Name": "why_muted",
+        "Atcoder ID": "IMT2021008",
+        "Rank": "7885"
+    },
+    {
+        "No": "39",
+        "Name": "nikita03",
+        "Atcoder ID": "IMT2022028",
+        "Rank": "7970"
+    },
+    {
+        "No": "40",
+        "Name": "drigger",
+        "Atcoder ID": "MT2022048",
+        "Rank": "8940"
+    },
+    {
+        "No": "41",
+        "Name": "antimaana",
+        "Atcoder ID": "IMT2019046",
+        "Rank": "9103"
+    },
+    {
+        "No": "42",
+        "Name": "BTVSumanth",
+        "Atcoder ID": "IMT2020072",
+        "Rank": "9184"
+    },
+    {
+        "No": "43",
+        "Name": "DhruvAwasthi",
+        "Atcoder ID": "MS2022010",
+        "Rank": "9205"
+    },
+    {
+        "No": "44",
+        "Name": "soardr",
+        "Atcoder ID": "IMT2022127",
+        "Rank": "9466"
+    },
+    {
+        "No": "45",
+        "Name": "idiotslvk",
+        "Atcoder ID": "IMT2020111",
+        "Rank": "9579"
+    },
+    {
+        "No": "46",
+        "Name": "prashantjain05",
+        "Atcoder ID": "MT2023108",
+        "Rank": "9886"
+    },
+    {
+        "No": "47",
+        "Name": "LokeshAravapalli",
+        "Atcoder ID": "IMT2022577",
+        "Rank": "9888"
+    },
+    {
+        "No": "48",
+        "Name": "Elysian01",
+        "Atcoder ID": "MT2023046",
+        "Rank": "9905"
+    },
+    {
+        "No": "49",
+        "Name": "phanipavank",
+        "Atcoder ID": "MS2022505",
+        "Rank": "10145"
+    },
+    {
+        "No": "50",
+        "Name": "sridharmenon",
+        "Atcoder ID": "MT2023157",
+        "Rank": "10952"
+    },
+    {
+        "No": "51",
+        "Name": "fork_quoder",
+        "Atcoder ID": "MT2023090",
+        "Rank": "11090"
+    },
+    {
+        "No": "52",
+        "Name": "ThalaLak",
+        "Atcoder ID": "IMT2022090",
+        "Rank": "11139"
+    },
+    {
+        "No": "53",
+        "Name": "varn03",
+        "Atcoder ID": "IMT2022025",
+        "Rank": "11173"
+    },
+    {
+        "No": "54",
+        "Name": "Zanzad",
+        "Atcoder ID": "MT2023030",
+        "Rank": "11263"
+    },
+    {
+        "No": "55",
+        "Name": "Kushal7551",
+        "Atcoder ID": "IMT2021062",
+        "Rank": "11269"
+    },
+    {
+        "No": "56",
+        "Name": "jaguar_0014",
+        "Atcoder ID": "IMT2020048",
+        "Rank": "11345"
+    },
+    {
+        "No": "57",
+        "Name": "anurag_babal",
+        "Atcoder ID": "MT2023102",
+        "Rank": "11388"
+    },
+    {
+        "No": "58",
+        "Name": "Rick200",
+        "Atcoder ID": "IMT2021030",
+        "Rank": "11462"
+    },
+    {
+        "No": "59",
+        "Name": "nimishgsk17",
+        "Atcoder ID": "IMT2021077",
+        "Rank": "11506"
+    },
+    {
+        "No": "60",
+        "Name": "grammyprocoder27",
+        "Atcoder ID": "IMT2022107",
+        "Rank": "11554"
+    },
+    {
+        "No": "61",
+        "Name": "Transyltoonia",
+        "Atcoder ID": "IMT2022559",
+        "Rank": "11647"
+    },
+    {
+        "No": "62",
+        "Name": "FunnySunny",
+        "Atcoder ID": "IMT2022505",
+        "Rank": "11903"
+    },
+    {
+        "No": "63",
+        "Name": "Skylar_007",
+        "Atcoder ID": "IMT2022118",
+        "Rank": "12154"
+    },
+    {
+        "No": "64",
+        "Name": "yugaanmh",
+        "Atcoder ID": "IMT2020536",
+        "Rank": "12382"
+    },
+    {
+        "No": "65",
+        "Name": "MT2023010",
+        "Atcoder ID": "MT2023010",
+        "Rank": "12399"
+    },
+    {
+        "No": "66",
+        "Name": "evilupstairs",
+        "Atcoder ID": "IMT2022018",
+        "Rank": "12474"
+    },
+    {
+        "No": "67",
+        "Name": "anshul16_coder",
+        "Atcoder ID": "IMT2020039",
+        "Rank": "12546"
+    },
+    {
+        "No": "68",
+        "Name": "abansal074",
+        "Atcoder ID": "IMT2023513",
+        "Rank": "12563"
+    },
+    {
+        "No": "69",
+        "Name": "sukrutdekhane",
+        "Atcoder ID": "MT2022144",
+        "Rank": "12597"
+    },
+    {
+        "No": "70",
+        "Name": "Nirbhay",
+        "Atcoder ID": "IMT2023103",
+        "Rank": "12597"
+    },
+    {
+        "No": "71",
+        "Name": "fireballzzz",
+        "Atcoder ID": "IMT2020548",
+        "Rank": "12597"
+    },
+    {
+        "No": "72",
+        "Name": "Gowtham569",
+        "Atcoder ID": "IMT2021081",
+        "Rank": "12597"
+    },
+    {
+        "No": "73",
+        "Name": "vidhish17",
+        "Atcoder ID": "IMT2021055",
+        "Rank": "12597"
+    },
+    {
+        "No": "74",
+        "Name": "Dewanshi9",
+        "Atcoder ID": "IMT2020549",
+        "Rank": "12597"
+    },
+    {
+        "No": "75",
+        "Name": "SalluKomder",
+        "Atcoder ID": "IMT2021087",
+        "Rank": "12597"
+    },
+    {
+        "No": "76",
+        "Name": "agarwalkeshav670",
+        "Atcoder ID": "MT2023114",
+        "Rank": "12597"
+    },
+    {
+        "No": "77",
+        "Name": "shrey27tri01",
+        "Atcoder ID": "IMT2019084",
+        "Rank": "12597"
+    },
+    {
+        "No": "78",
+        "Name": "jass_sadana",
+        "Atcoder ID": "MT2023011",
+        "Rank": "12597"
+    },
+    {
+        "No": "79",
+        "Name": "kerkar0203",
+        "Atcoder ID": "MT2023056",
+        "Rank": "12597"
+    },
+    {
+        "No": "80",
+        "Name": "ananthak",
+        "Atcoder ID": "IMT2022086",
+        "Rank": "100000"
+    },
+    {
+        "No": "81",
+        "Name": "navaneethd123",
+        "Atcoder ID": "IMT2023095",
+        "Rank": "100000"
+    },
+    {
+        "No": "82",
+        "Name": "Siddhesh_17",
+        "Atcoder ID": "IMT2022080",
+        "Rank": "100000"
+    },
+    {
+        "No": "83",
+        "Name": "Samxaverian",
+        "Atcoder ID": "MT2022162",
+        "Rank": "100000"
+    },
+    {
+        "No": "84",
+        "Name": "Nandini_Yadav",
+        "Atcoder ID": "MT2023096",
+        "Rank": "100000"
+    },
+    {
+        "No": "85",
+        "Name": "gururaj_o",
+        "Atcoder ID": "MT2023176",
+        "Rank": "100000"
+    },
+    {
+        "No": "86",
+        "Name": "saimadhavang ",
+        "Atcoder ID": "IMT2021101",
+        "Rank": "100000"
+    },
+    {
+        "No": "87",
+        "Name": "deadMan0100",
+        "Atcoder ID": "IMT2020046",
+        "Rank": "100000"
+    },
+    {
+        "No": "88",
+        "Name": "architsangal",
+        "Atcoder ID": "IMT2019012",
+        "Rank": "100000"
+    },
+    {
+        "No": "89",
+        "Name": "Lohitaksh",
+        "Atcoder ID": "IMT2022536",
+        "Rank": "100000"
+    },
+    {
+        "No": "90",
+        "Name": "nameaman2170",
+        "Atcoder ID": "MT2023171",
+        "Rank": "100000"
+    },
+    {
+        "No": "91",
+        "Name": "sathvik04",
+        "Atcoder ID": "IMT2020009",
+        "Rank": "100000"
+    },
+    {
+        "No": "92",
+        "Name": "Hemant_Kumar",
+        "Atcoder ID": "MT2023180",
+        "Rank": "100000"
+    },
+    {
+        "No": "93",
+        "Name": "chinmayparekh",
+        "Atcoder ID": "IMT2020069",
+        "Rank": "100000"
+    },
+    {
+        "No": "94",
+        "Name": "gunshot54",
+        "Atcoder ID": "IMT2020509",
+        "Rank": "100000"
+    },
+    {
+        "No": "95",
+        "Name": "TheRedMoon",
+        "Atcoder ID": "IMT2021538",
+        "Rank": "100000"
+    },
+    {
+        "No": "96",
+        "Name": "jsbhuvan ",
+        "Atcoder ID": "IMT2020506",
+        "Rank": "100000"
+    },
+    {
+        "No": "97",
+        "Name": "aak3112",
+        "Atcoder ID": "IMT2021038",
+        "Rank": "100000"
+    },
+    {
+        "No": "98",
+        "Name": "Nabarun11",
+        "Atcoder ID": "MT2023075",
+        "Rank": "100000"
+    },
+    {
+        "No": "99",
+        "Name": "chaithanya970",
+        "Atcoder ID": "IMT2020054",
+        "Rank": "100000"
+    },
+    {
+        "No": "100",
+        "Name": "dawsom",
+        "Atcoder ID": "IMT2020546",
+        "Rank": "100000"
+    }
+]
